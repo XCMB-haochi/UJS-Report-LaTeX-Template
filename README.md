@@ -87,6 +87,7 @@ xelatex example.tex
 ## 注意事项
 
 - **暂不支持 Overleaf**：由于字体依赖，目前仅支持本地编译
+- **暂只支持 Windows**：模板使用 Windows 系统字体（SimSun、SimHei、KaiTi）
 - **系统要求**：TeX Live 2020+ 或 MiKTeX，使用 XeLaTeX 引擎
 
 ## 参考规范
