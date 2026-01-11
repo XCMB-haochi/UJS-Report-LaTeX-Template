@@ -82,7 +82,7 @@ xelatex example.tex
 ## 参考仓库
 
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) - 清华大学学位论文模板
-- [UJS_Masterthesis](https://github.com/ChenXiaoTian99/UJS_Masterthesis) - 江苏大学硕士论文模板
+- [xtc-chen/UJS_Masterthesis](https://github.com/xtc-chen/UJS_Masterthesis) - 江苏大学硕士论文模板
 - [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style) - GB/T 7714 参考文献样式
 
 ## 致谢
