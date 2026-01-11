@@ -20,6 +20,13 @@ latexmk -xelatex example.tex
 latexmk -c
 ```
 
+### 使用 Makefile
+
+```bash
+make        # 编译
+make clean  # 清理辅助文件
+```
+
 ### 手动编译
 
 ```bash

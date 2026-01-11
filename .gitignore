@@ -37,3 +37,4 @@ code_refs/
 .vscode/
 .idea/
 *.sublime-*
+latexmkrc
