@@ -1,0 +1,43 @@
+% !TEX program = xelatex
+% 江苏大学课程报告示例文档
+
+\documentclass[twoside]{ujsreport}
+
+% 文档信息设置
+\ctitle{示例报告标题}
+\studentid{1234567890}
+\class{示例班级}
+\author{张三}
+\reporttype{期末报告}
+\date{2025年12月}
+
+% 关键词
+\ckeywords{关键词1，关键词2，关键词3}
+\ekeywords{Keyword1, Keyword2, Keyword3}
+
+\begin{document}
+
+% 封面
+\maketitle
+
+% 前置部分（罗马数字页码）
+\frontmatter
+
+% 摘要
+\input{data/abstract}
+
+% 目录
+\tableofcontents
+
+% 正文部分（阿拉伯数字页码）
+\mainmatter
+
+% 各章节
+\input{data/chapter01}
+\input{data/chapter02}
+\input{data/chapter03}
+
+% 参考文献
+\bibliography{refs/refs}
+
+\end{document}

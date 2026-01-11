@@ -1,0 +1,33 @@
+LaTeX Project Public License
+============================
+
+Version 1.3c, 2008-05-04
+
+This work may be distributed and/or modified under the conditions of the LaTeX
+Project Public License, either version 1.3c of this license or (at your option)
+any later version.
+
+The latest version of this license is in
+  https://www.latex-project.org/lppl.txt
+and version 1.3c or later is part of all distributions of LaTeX version
+2008-05-04 or later.
+
+This work has the LPPL maintenance status `maintained'.
+
+The Current Maintainer of this work is the author.
+
+This work consists of the following files:
+  - ujsreport.cls
+  - example-report.tex
+  - example-coursepaper.tex
+  - README.md
+  - Makefile
+  - latexmkrc
+
+and the derived files generated from these source files.
+
+Based on ThuThesis by Tsinghua University TUNA Association
+Copyright (C) 2005-2025 by Tsinghua University TUNA Association
+
+Customized for Jiangsu University
+Copyright (C) 2025 by the template author

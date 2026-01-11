@@ -1,0 +1,39 @@
+# LaTeX 编译产生的文件
+*.aux
+*.log
+*.toc
+*.out
+*.bbl
+*.blg
+*.lof
+*.lot
+*.synctex.gz
+*.synctex.gz(busy)
+*.fdb_latexmk
+*.fls
+*.xdv
+
+# BibTeX 文件
+*.bak
+*.sav
+*.run.xml
+*-blx.bib
+*.bcf
+
+# 临时文件
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Claude Code 本地设置
+.claude/
+
+# 参考模板（不上传）
+code_refs/
+
+# 编辑器配置
+.vscode/
+.idea/
+*.sublime-*
