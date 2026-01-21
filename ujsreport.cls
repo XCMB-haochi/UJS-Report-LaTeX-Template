@@ -119,6 +119,29 @@
 \RequirePackage{ulem}
 \RequirePackage{tikz}
 
+% 算法
+\RequirePackage[ruled,linesnumbered,algochapter]{algorithm2e}
+\SetAlgorithmName{算法}{算法}{算法列表}
+\SetKwInput{KwIn}{输入}
+\SetKwInput{KwOut}{输出}
+\renewcommand{\algorithmcfname}{算法}
+
+% 代码
+\RequirePackage{listings}
+\lstset{
+  basicstyle=\small\ttfamily,
+  keywordstyle=\color{blue},
+  commentstyle=\color{gray},
+  stringstyle=\color{red},
+  numbers=left,
+  numberstyle=\tiny,
+  numbersep=5pt,
+  frame=single,
+  breaklines=true,
+  captionpos=b,
+  tabsize=2
+}
+
 %% ============================================================================
 %% 字体配置
 %% ============================================================================

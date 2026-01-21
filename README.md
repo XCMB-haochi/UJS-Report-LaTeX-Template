@@ -6,6 +6,10 @@
 
 ## 使用方法
 
+### 编辑器推荐
+
+推荐使用 **VSCode + LaTeX Workshop 插件**，配置文件可参考 [https://rosetears.cn/archives/73/](https://rosetears.cn/archives/73/)（配置看起来很长是因为注释较多，实际使用体验非常好）。
+
 ### 编译（推荐）
 
 使用 latexmk 一键编译：
