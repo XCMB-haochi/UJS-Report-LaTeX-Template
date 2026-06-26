@@ -4,6 +4,16 @@
 
 适用于江苏大学本科生的课程报告和课程设计，最适配通信工程专业的排版规范。
 
+## 预览
+
+| 封面示例 | 正文排版 |
+| --- | --- |
+| ![](docs/images/preview-cover.png) | ![](docs/images/preview-body.png) |
+
+| 目录 | 图表公式 | 参考文献 |
+| --- | --- | --- |
+| ![](docs/images/preview-toc.png) | ![](docs/images/preview-elements.png) | ![](docs/images/preview-references.png) |
+
 ## 使用方法
 
 ### 编辑器推荐
