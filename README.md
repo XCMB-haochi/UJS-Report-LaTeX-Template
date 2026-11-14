@@ -16,7 +16,7 @@
 | --- | --- |
 | ![](docs/images/preview-cover.png) | ![](docs/images/preview-body.png) |
 
-| 目录 | 图表公式 | 参考文献 |
+| 目录 | 图片、算法与代码 | 参考文献 |
 | --- | --- | --- |
 | ![](docs/images/preview-toc.png) | ![](docs/images/preview-elements.png) | ![](docs/images/preview-references.png) |
 
