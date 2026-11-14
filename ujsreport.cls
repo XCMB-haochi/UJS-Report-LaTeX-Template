@@ -206,14 +206,14 @@
   % 二级标题：四号粗黑体
   section/format = \zihao{4}\bfseries\heiti,
   section/aftername = ~~,
-  section/beforeskip = 6ex,
-  section/afterskip = 6ex,
+  section/beforeskip = 3ex,
+  section/afterskip = 3ex,
   section/fixskip = true,
   % 三级标题：小四号粗黑体
   subsection/format = \zihao{-4}\bfseries\heiti,
   subsection/aftername = ~~,
-  subsection/beforeskip = 4.7ex,
-  subsection/afterskip = 4.7ex,
+  subsection/beforeskip = 2ex,
+  subsection/afterskip = 2ex,
   subsection/fixskip = true
 }
 
@@ -266,6 +266,13 @@
 %% ============================================================================
 %% 图表格式设置
 %% ============================================================================
+
+% 放宽图文混排比例，允许图表灵活浮动
+\renewcommand{\topfraction}{0.9}
+\renewcommand{\bottomfraction}{0.4}
+\renewcommand{\textfraction}{0.1}
+\floatplacement{figure}{htbp}
+\floatplacement{table}{htbp}
 
 \DeclareCaptionFont{wukai}{\zihao{5}\kaishu}
 \captionsetup{
