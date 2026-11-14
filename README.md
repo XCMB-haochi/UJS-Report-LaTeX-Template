@@ -4,6 +4,12 @@
 
 适用于江苏大学本科生的课程报告和课程设计，最适配通信工程专业的排版规范。
 
+**直接使用：[下载精简模板 ZIP](https://github.com/XCMB-haochi/UJS-Report-LaTeX-Template/releases/latest/download/ujsreport-template.zip)** · [查看 PDF 示例](https://github.com/XCMB-haochi/UJS-Report-LaTeX-Template/releases/latest/download/example.pdf)
+
+精简包仅保留编译和填写报告所需的文件。在已安装 TeX Live 的 Windows 环境下，解压后运行 `latexmk -xelatex example.tex` 即可编译。
+
+完整仓库保留 `docs/` 中的学校及专业排版规范，作为模板的格式依据，方便核对学校报告要求；`refs/` 提供参考文献示例，预览图片和示例 PDF 用于检查排版效果。`refs/` 也是示例编译所需文件，已包含在精简包中。
+
 ## 预览
 
 | 封面示例 | 正文排版 |
